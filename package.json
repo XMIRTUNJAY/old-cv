@@ -1,0 +1,12 @@
+{
+  "name": "mitran resume",
+  "version": "1.0.0",
+  "description": "SPA of my resume",
+  "scripts": {
+    "start": "serve",
+  },
+  "dependencies": {
+    "serve": "^10.0.1"
+  },
+  "author": "Mirtunjay Kumar"
+}
